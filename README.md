@@ -38,3 +38,8 @@ You can search images with OCR result.
 
 - Approximately $1.5 per 1,000 images. If you want to filter some images out, modify code.
 - Currently, there is no special deal with break lines. Removing BRs has pros/cons, so this topic is debatable.
+
+
+# Todo
+
+Fork from original version to replace Google's GCP with some offline OCR (for example https://github.com/naptha/tesseract.js)
